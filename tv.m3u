@@ -1,51 +1,93 @@
 
 
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 09-01-2016 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 09-01-2016--[/COLOR]
-
-#EXTINF:-1,[I][B][COLOR red]-------------------------- [COLOR green]ATTENTION[/COLOR] --------------------------[/COLOR][/B][/I]
- #EXTINF: -1,P.B
-http://188.124.32.254/udp/239.255.1.2:1234?pf=20160213 
-#EXTINF: -1, NUDE ART TV +18
-http://188.124.32.254/udp/239.255.1.12:1234?pf=20160213
-#EXTINF:-1,DORCEL +18
-http://91.185.99.146:54022/udp/239.11.14.1:5000
-#EXTINF:-1,DORCEL XXX HD +18
-http://91.185.99.146:54022/udp/239.11.14.2:5000
-#EXTINF:-1,DUSK! +18
-http://91.185.99.146:54022/udp/239.11.14.3:5000
-#EXTINF: -1, Hustler TV +18
-http://188.124.32.254/udp/239.255.1.45:1234?pf=20160213 
-#EXTINF:-1, Satisfaction HD
-http://bit.ly/1HSxcD3
-#EXTINF:-1, SCT
-http://bit.ly/1SLEOHU
-#EXTINF:-1, Sext 6
-http://bit.ly/1XSg6Mz
-#EXTINF:-1, Reality King
-http://tinyurl.com/z35d5xp
-#EXTINF:-1, Private
-http://bit.ly/21M5LB7
-#EXTINF:-1, Dorcel
-http://bit.ly/1QcyJX0
-#EXTINF:-1, Brazzers TV Europe
-http://bit.ly/1Qtf7wm
-#EXTINF:-1, Venus
-http://bit.ly/1M0UeCl
-#EXTINF:-1, Pink TV
-http://bit.ly/1Tyl4rc
-#EXTINF:-1, HOT
-http://bit.ly/1NIsALP
-#EXTINF:-1, Hustler HD
-Private tv +18
-http://185.38.12.20:8088/private/
-#EXTINF:-1,hust
-http://dd03.sytes.net/live/15691/index.m3u8?auth=
- #EXTINF:-1,xXx 
- http://188.165.220.116:8081/live/96/playlist.m3u8
- #EXTINF:-1,xXx 
-http://188.165.220.116:8081/live2/71/playlist.m3u8
+#EXTINF:-1,
+HOT 1
+http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8890.ts
+#EXTINF:-1,
+HOT 2
+http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8891.ts
+#EXTINF:-1,
+HOT 3
+http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8892.ts
+#EXTINF:-1,
+HOT 4
+http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8893.ts
+#EXTINF:-1,
+HOT 5
+http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8894.ts
+#EXTINF:-1,
+HOT 6
+http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8895.ts
+#EXTINF:-1,
+HOT 7
+http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8896.ts
+#EXTINF:-1,
+HOT 8
+http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8897.ts
+#EXTINF:-1,
+HOT 9
+http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8898.ts
+#EXTINF:-1,
+HOT 10
+http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8899.ts
+#EXTINF:-1,
+HOT 11
+http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8900.ts
+#EXTINF:-1,
+HOT 12
+http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/8901.ts
+#EXTINF:-1,
+Dorcel
+http://tornado-ultra.noip.me:8000/live/Ciro/Ciro/4621.ts
+#EXTINF:-1,ADULTRI_4
+http://151.80.97.112:8000/live/haithem/haithem/814.ts
+#EXTINF:-1,ADULTRI_5
+http://151.80.97.112:8000/live/haithem/haithem/783.ts
+#EXTINF:-1,ADULTRI_6
+http://151.80.97.112:8000/live/haithem/haithem/782.ts
+#EXTINF:-1,ADULTRI_7
+http://151.80.97.112:8000/live/haithem/haithem/780.ts
+#EXTINF:-1,ADULTRI_8
+http://151.80.97.112:8000/live/haithem/haithem/773.ts
+#EXTINF:-1,ADULTRI_9
+http://151.80.97.112:8000/live/haithem/haithem/772.ts
+#EXTINF:-1,ADULTRI_10
+http://151.80.97.112:8000/live/haithem/haithem/771.ts
+#EXTINF:-1,ADULTRI_11
+http://151.80.97.112:8000/live/haithem/haithem/770.ts
+#EXTINF:-1,ADULTRI_12
+http://151.80.97.112:8000/live/haithem/haithem/906.ts
+#EXTINF:-1,ADULTRI_13
+http://151.80.97.112:8000/live/haithem/haithem/907.ts
+#EXTINF:-1,ADULTRI_14
+http://151.80.97.112:8000/live/haithem/haithem/908.ts
+#EXTINF:-1,ADULTRI_15
+http://151.80.97.112:8000/live/haithem/haithem/1197.ts
+#EXTINF:-1,ADULTRI_16
+http://151.80.97.112:8000/live/haithem/haithem/1198.ts
+#EXTINF:-1,ADULTRI_17
+http://151.80.97.112:8000/live/haithem/haithem/1199.ts
+#EXTINF:-1,ADULTRI_18
+http://151.80.97.112:8000/live/haithem/haithem/1200.ts
+#EXTINF:-1,ADULTRI_19
+http://151.80.97.112:8000/live/haithem/haithem/1201.ts
+#EXTINF:-1,ADULTRI_20
+http://151.80.97.112:8000/live/haithem/haithem/1202.ts
+#EXTINF:-1,ADULTRI_21
+http://151.80.97.112:8000/live/haithem/haithem/1203.ts
+#EXTINF:-1,ADULTRI_22
+http://151.80.97.112:8000/live/haithem/haithem/1204.ts
+#EXTINF:-1,ADULTRI_23
+http://151.80.97.112:8000/live/haithem/haithem/1205.ts
+#EXTINF:-1,ADULTRI_24
+http://151.80.97.112:8000/live/haithem/haithem/1206.ts
+#EXTINF:-1,ADULTRI_25
+http://151.80.97.112:8000/live/haithem/haithem/1345.ts
+#EXTINF:-1,ADULTRI_26
+http://151.80.97.112:8000/live/haithem/haithem/1346.ts
+#EXTINF:-1,ADULTRI_27
+http://151.80.97.112:8000/live/haithem/haithem/1347.ts
 #EXTINF:-1,xXx: Hot Club 1
 http://painel.soeu.ws:8000/live/seixas/seixas/714.m3u8
 #EXTINF:-1,xXx: Hot Club 2
@@ -60,212 +102,6 @@ http://painel.soeu.ws:8000/live/seixas/seixas/710.m3u8
 http://painel.soeu.ws:8000/live/seixas/seixas/709.m3u8
 #EXTINF:-1,xXx: Hot Club 7
 http://painel.soeu.ws:8000/live/seixas/seixas/708.m3u8
-#EXTM3U
-#EXTINF:-1,AMATEUR
-rtmp://64.62.143.5/live/do%20not%20steal%20my-Stream2
-#EXTINF:-1,BABES SPORTING
-http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
-#EXTINF:-1,BLUE HUSTLER
-http://j.mp/ZCH_C03_BLUEHUSTLER2_sly?.m3u8
-#EXTINF:-1,BRAZZERS
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-#EXTINF:-1,BRAZZERS X
-http://46.182.25.34:1935/tv/1420/playlist.m3u8
-#EXTINF:-1,DJING HOT
-http://cdn.djing.com/tv/h-05.m3u8
-#EXTINF:-1,HOT SHOTS
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-#EXTINF:-1,HUSTLER
-http://78.30.254.27:8989/udp/239.0.0.199:4000
-#EXTINF:-1,JASMIN TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1,LATIN LIVE SEX
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-#EXTINF:-1,LATINAS
-http://tinyurl.com/pyumlyd
-#EXTINF:-1,LATINAS XX
-http://tinyurl.com/pylkzhb
-#EXTINF:-1,MIAMI TV
-http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
-#EXTINF:-1,New channel – http://84.238.227.17:1234/udp/239.130.50.130:9001
-http://84.238.227.17:1234/udp/239.130.50.130:9001
-#EXTINF:-1,New channel – http://84.238.227.17:1234/udp/239.130.50.132:9001
-http://84.238.227.17:1234/udp/239.130.50.132:9001
-#EXTINF:-1,OLALA
-http://188.17.143.39/hls/CH_C06_OLALA/variant.m3u8?version=2
-#EXTINF:-1,OLALA
-http://j.mp/ZCH_C06_OLALA_sly?.m3u8
-#EXTINF:-1,OLALA
-http://j.mp/ZCH_C06_OLALA_sly
-#EXTINF:-1,OLALA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:-1,PASSIE XXX
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1,PASSIE XXX
-http://q.gs/9830047/sex3todokodi
-#EXTINF:-1,PENTHOUSE HD
-http://84.238.227.17:1234/udp/239.130.50.124:9001
-#EXTINF:-1,PLAYBOY
-http://sftr89en.edem.tv/iptv/7S87XERM7HPVBR/527/index.m3u8
-#EXTINF:-1,PLAYBOY
-http://78.30.254.27:8989/udp/239.0.0.200:4000
-#EXTINF:-1,Power Girls TV HD
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-#EXTINF:-1,PRIVATE COM
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,RUSSIAN NIGHT
-http://j.mp/ZCH_C01_RUSNIGHT2_sly?.m3u8
-#EXTINF:-1,RUSSIAN NIGHT
-http://78.30.254.27:8989/udp/239.0.0.198:4000
-#EXTINF:-1,SCT
-http://84.238.227.17:1234/udp/239.130.50.129:9001
-#EXTINF:-1,Service01
-http://illegalbox.mine.nu:8000/illegal/illegal/100
-#EXTINF:-1,Service02
-http://illegalbox.mine.nu:8000/illegal/illegal/87
-#EXTINF:-1,Service03
-http://illegalbox.mine.nu:8000/illegal/illegal/88
-#EXTINF:-1,Service04
-http://illegalbox.mine.nu:8000/illegal/illegal/89
-#EXTINF:-1,Service05
-http://illegalbox.mine.nu:8000/illegal/illegal/93
-#EXTINF:-1,Service06
-http://illegalbox.mine.nu:8000/illegal/illegal/94
-#EXTINF:-1,Service07
-http://illegalbox.mine.nu:8000/illegal/illegal/95
-#EXTINF:-1,Service08
-http://illegalbox.mine.nu:8000/illegal/illegal/96
-#EXTINF:-1,Service09
-http://illegalbox.mine.nu:8000/illegal/illegal/97
-#EXTINF:-1,Service10
-http://illegalbox.mine.nu:8000/illegal/illegal/98
-#EXTINF:-1,Service11
-http://illegalbox.mine.nu:8000/illegal/illegal/99
-#EXTINF:-1,SEXT 6 SENSO
-http://84.238.227.17:1234/udp/239.130.50.126:9001
-#EXTINF:-1,SOBLAZN
-http://j.mp/SOBLAZN_sly
-#EXTINF:-1,SOBLAZN
-http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
-#EXTINF:-1,STORM BABES
-http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel2/playlist.m3u8
-#EXTINF:-1,T GIRLS
-http://84.238.227.17:1234/udp/239.130.50.127:9001
-#EXTINF:-1,TELE ITALIA HD
-http://84.238.227.17:1234/udp/239.130.50.128:9001
-#EXTINF:-1,TV LUNA
-http://live.streamcaster.net:1935/test_live/teleluna/chunklist_w1578080865.m3u8
-#EXTINF:-1,WOW GIRLS
-http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive4/smil:tvmia-arg-vodlive4.smil/playlist.m3u8
-#EXTINF:-1,X1
-http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
-#EXTINF:-1,X2
-http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive2/smil:tvmia-arg-vodlive2.smil/playlist.m3u8
-#EXTINF:-1,X3
-http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive3/smil:tvmia-arg-vodlive3.smil/playlist.m3u8
-#EXTINF:-1,XXX
-http://bit.ly/1jGYwsX
-#EXTINF:-1,ASIA 4
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1,ASK TV
-http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
-#EXTINF:-1,czech +18 mmsh
-mmsh://tv.webmisto.cz:7000
-#EXTINF:-1,GIRLS TV
-rtmp://edge2.everyon.tv/etv2sb/phd501
-#EXTINF:-1,KOREA GIRLS TV
-http://edge2.everyon.tv:1935/etv2sb/phd501/HasBahCa.m3u8
-#EXTINF:-1,Korea m3u8 Okadai
-http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
-#EXTINF:-1,KOREA OKADAI HD
-http://edge2.everyon.tv:1935/etv2/phd1003/HasBahCa.m3u8
-#EXTINF:-1,Korea rtmp Okadai
-rtmp://edge2.everyon.tv/etv2/pld1003
-#EXTINF:-1,Korea rtmp Paradise TV
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1,Korea RTMP 韩国phd1008
-rtmp://edge2.everyon.tv/etv2/phd1008
-#EXTINF:-1,Korea RTMP 韩国phd501
-rtmp://edge2.everyon.tv/etv2sb/phd501
-#EXTINF:-1,Korea RTMP 韩国phd61
-rtmp://edge2.everyon.tv/etv2sb/phd61
-#EXTINF:-1,Korea RTMP 韩国phd968
-rtmp://edge2.everyon.tv/etv2sb/phd968
-#EXTINF:-1,KOREA SAKURA
-http://edge2.everyon.tv:1935/etv2sb/phd61/HasBahCa.m3u8
-#EXTINF:-1,KOREA SEX
-rtmp://edge2.everyon.tv/etv2sb/phd968
-#EXTINF:-1,PARADISE
-rtmp://edge2.everyon.tv/etv2/phd1008
-#EXTINF:-1,PARADISE
-http://edge2.everyon.tv:1935/etv2/phd1008/huraivza.m3u8
-#EXTINF:-1,PREMIUM
-http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8
-#EXTINF:-1,SAKURA
-rtmp://edge2.everyon.tv/etv2sb/phd61
-#EXTINF:-1,SATISFACTION
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
-DORCEL HD 720p
-http://213.250.19.50/dorcelhd/dorcelhd.isml/dorcelhd-video=4500000-audio101=128000.m3u8
-
-HUSTLER HD 720p
-http://213.250.19.50/hustlerhd/hustlerhd.isml/hustlerhd-video=4500000-audio101=128000.m3u8
-
-SCT
-http://213.250.19.50/sct/sct.isml/sct-video=2500000-audio101=128000.m3u8
-
-CENTOXCENTO
-http://213.250.19.50/priveetv/priveetv.isml/priveetv-video=2500000-audio101=128000.m3u8
-
-FRENCH LOVER TV
-http://213.250.19.50/frenchlovertv/frenchlovertv.isml/frenchlovertv-video=2500000-audio101=128000.m3u8
-
-BRAZZERS TV
-http://213.250.19.50/brazzerstv/brazzerstv.isml/brazzerstv-video=2500000-audio101=128000.m3u8
-
-ERXXX HD 720p
-http://213.250.19.50/eroxxxhd/eroxxxhd.isml/eroxxxhd-video=4500000-audio101=128000.m3u8
-
-#EXTM3U
-#EXTINF:-1,bunga
-http://84.22.33.3:8066
-#EXTINF:-1,xxxx
-http://Smart:Adana01@188.165.239.200:7024
-#EXTINF:-1,JASMIN
-rtmp://$OPT:rtmp-raw=rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream playpath=sd.jasminchannel.stream swfUrl=http://flash.dditscdn.com/jsm2/3316/memberapplet/wowza/memberapplet.swf live=1 pageUrl=http://jasmin.com/pt/girl
-#EXTINF:-1,xdx
-http://188.165.220.116:8081/live/xxx/playlist.m3u8
-#EXTINF:-1,xsx
-http://188.165.220.116:8081/live/xxx/playlist.m3u8
-#EXTINF:-1,adult
-http://83.139.104.112/Content/HLS/Live/Channel(*****_CHANNEL)/Stream(03)/index.m3u8
-#EXTINF:-1,playboy
-http://83.139.104.112/Content/HLS/Live/Channel(playboy_TV)/Stream(03)/index.m3u8
-#EXTINF:-1,brazzers
-http://83.139.104.112/Content/HLS/Live/Channel(BRAZZERS_TV)/Stream(03)/index.m3u8
-#EXTINF:-1,dorcel
-http://83.139.104.112/Content/HLS/Live/Channel(DORCEL_TV)/Stream(03)/index.m3u8
-#EXTINF:-1,superone
-http://cdn-02.sdn.si/superone/superone.isml/superone-video=2500000-audio101=128000.m3u8
-#EXTINF:-1,EROXx HD
-http://cdn-02.sdn.si/eroxxxhd/eroxxxhd.isml/eroxxxhd-video=2500000-audio101=128000.m3u8
-#EXTINF:-1,eroxhd
-http://cdn-02.sdn.si/eroxhd/eroxhd.isml/eroxhd-video=4500000-audio101=128000.m3u8
-#EXTINF:-1,dorcel
-http://cdn-02.sdn.si/dorcel/dorcel.isml/dorcel-video=2500000-audio101=128000.m3u8
-#EXTINF:-1,hust3d
-http://cdn-02.sdn.si/hustlerhd/hustlerhd.isml/hustlerhd-video=4500000-audio101=128000.m3u8
-#EXTINF:-1,hust
-http://cdn-02.sdn.si/hustler/hustler.isml/hustler-video=1500000-audio101=128000.m3u8
-#EXTINF:-1,fl
-http://cdn-02.sdn.si/frenchlovertv/frenchlovertv.isml/frenchlovertv-video=1500000-audio101=128000.m3u8
-#EXTINF:-1,fl2
-http://cdn-02.sdn.si/frenchlovertv/frenchlovertv.isml/frenchlovertv-video=2500000-audio101=128000.m3u8
-#EXTINF:-1,pb
-http://cdn-02.sdn.si/playboy/playboy.isml/playboy-video=1500000-audio101=128000.m3u8
-#EXTINF:-1,sct
-http://cdn-02.sdn.si/sct/sct.isml/sct-video=2500000-audio101=128000.m3u8
-
 #EXTINF:-1, XXX3
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:-1, Satisfaction HD
