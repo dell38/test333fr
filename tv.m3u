@@ -1,212 +1,55 @@
 #EXTM3U
 
-#EXTINF:0,FOOT + (L)
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4954.ts
-#EXTINF:0,FR – Cherie 25
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4421.ts
-#EXTINF:0,FR- TF1 HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3214.ts
-#EXTINF:0,FR- France 2
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3279.ts
-#EXTINF:0,FR- France 3 HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/412.ts
-#EXTINF:0,FR- FRANCE 4 HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3247.ts
-#EXTINF:0,FR- FRANCE 5 HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/5.ts
-#EXTINF:0,FR – France 24
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4637.ts
-#EXTINF:0,FR- FRANCE Ô
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/6.ts
-#EXTINF:0,FR- M6 HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3223.ts
-#EXTINF:0,FR- ARTE
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/293.ts
-#EXTINF:0,FR- 6TER
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3271.ts
-#EXTINF:0,FR – HD1
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4425.ts
-#EXTINF:0,FR- Paris Premiere
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/1999.ts
-#EXTINF:0,FR – TVbreizh
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/5002.ts
-#EXTINF:0,FR – TMC
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4422.ts
-#EXTINF:0,FR- CANAL + HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3241.ts
-#EXTINF:0,FR- Canal + cinema HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3244.ts
-#EXTINF:0,FR- Canal + Family HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3242.ts
-#EXTINF:0,FR- OCS MAX HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3216.ts
-#EXTINF:0,FR- OCS CHOC HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3218.ts
-#EXTINF:0,FR- OCS GEANT HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3217.ts
-#EXTINF:0,FR – OCS city
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4426.ts
-#EXTINF:0,FR- CINE PREMIER HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3232.ts
-#EXTINF:0,FR- CINE + EMOTION HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3235.ts
-#EXTINF:0,FR- CINE + FRISSON hd
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3233.ts
-#EXTINF:0,FR – Ciné + Classic
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4638.ts
-#EXTINF:0,FR- Cine + Famiz HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3234.ts
-#EXTINF:0,FR- Action
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3245.ts
-#EXTINF:0,FR- TCM
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3275.ts
-#EXTINF:0,— Divertissement —
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3262.ts
-#EXTINF:0,FR- Canal + Decale HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3243.ts
-#EXTINF:0,FR- Canal + Serie HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3240.ts
-#EXTINF:0,FR – Syfy
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4284.ts
-#EXTINF:0,FR- E! ENTERTAINEMENT
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3249.ts
-#EXTINF:0,FR- 13 Eme Rue
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3246.ts
-#EXTINF:0,FR- Comédie +
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3231.ts
-#EXTINF:0,FR- Serie Club
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3215.ts
-#EXTINF:0,FR – RTL9
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4424.ts
-#EXTINF:0,FR- NT1 HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3277.ts
-#EXTINF:0,FR- TEVA
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3248.ts
-#EXTINF:0,FR- W9
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/384.ts
-#EXTINF:0,FR- D8
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3251.ts
-#EXTINF:0,FR- D17
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3252.ts
-#EXTINF:0,— Sport —
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3263.ts
-#EXTINF:0,FR- Canal + sport HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3239.ts
-#EXTINF:0,FR- Bein Sports 1 HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3211.ts
-#EXTINF:0,FR- Bein Sport 2 HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3212.ts
-#EXTINF:0,FR- Bein Sport 3 HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3213.ts
-#EXTINF:0,FR – Bein sports MAX 4
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/5053.ts
-#EXTINF:0,FR – Bein sports MAX 5
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/5054.ts
-#EXTINF:0,FR – Bein sports MAX6
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/5050.ts
-#EXTINF:0,FR – Bein Sports MAX 7
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/5051.ts
-#EXTINF:0,FR – Bein sports MAX 8
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/5052.ts
-#EXTINF:0,FR- Ma Chaine Sport HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3222.ts
-#EXTINF:0,FR – Infosport +
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3281.ts
-#EXTINF:0,FR- Eurosport 1
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3224.ts
-#EXTINF:0,FR- Eurosport 2
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/1485.ts
-#EXTINF:0,FR – AB Moteur
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4597.ts
-#EXTINF:0,FR- L equipe 21
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3280.ts
-#EXTINF:0,FR- Kombat Sport
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3278.ts
-#EXTINF:0,FR – OL TV
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4623.ts
-#EXTINF:0,— Culture —
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3264.ts
-#EXTINF:0,FR- Planete +
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3276.ts
-#EXTINF:0,FR- Planete + A&E
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3259.ts
-#EXTINF:0,FR- Planete + CI
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3258.ts
-#EXTINF:0,FR- National Geographic
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3219.ts
-#EXTINF:0,FR- NAT GEO WILD HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3220.ts
-#EXTINF:0,FR- Discovery HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/1434.ts
-#EXTINF:0,FR- Discovery Science HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3230.ts
-#EXTINF:0,FR- Sciences & Vie
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3226.ts
-#EXTINF:0,FR- USHUAIA TV
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/1446.ts
-#EXTINF:0,FR- Trek
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3225.ts
-#EXTINF:0,FR – Voyage
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4561.ts
-#EXTINF:0,FR- Toute l’histoire
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4826.ts
-#EXTINF:0,FR- Histoire
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3250.ts
-#EXTINF:0,FR- Animaux
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3255.ts
-#EXTINF:0,FR- Chasse et peche
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3237.ts
-#EXTINF:0,FR- RMC Decouverte HD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/439.ts
-#EXTINF:0,— Musique —
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3265.ts
-#EXTINF:0,FR- M6 music
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/2453.ts
-#EXTINF:0,FR – NRJ12
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4427.ts
-#EXTINF:0,— enfants —
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3266.ts
-#EXTINF:0,FR – Disney XD
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3229.ts
-#EXTINF:0,FR – Disney Channel
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4745.ts
-#EXTINF:0,FR- Disney cinema
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3228.ts
-#EXTINF:0,FR- Disney Junior
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3227.ts
-#EXTINF:0,FR- Cartoon network
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3253.ts
-#EXTINF:0,FR- Boomerang
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/1795.ts
-#EXTINF:0,FR – Tiji
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/5048.ts
-#EXTINF:0,FR – Boing
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/5049.ts
-#EXTINF:0,FR- Piwi
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3274.ts
-#EXTINF:0,FR- Canal J
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/1781.ts
-#EXTINF:0,FR- Gulli
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/1908.ts
-#EXTINF:0,FR- Manga
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3221.ts
-#EXTINF:0,FR – Teletoon +
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4423.ts
-#EXTINF:0,BIPBIP & VILCOYOTE
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4046.ts
-#EXTINF:0,Simpson Saison 1
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4091.ts
-#EXTINF:0,Simpson Saison 2
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4283.ts
-#EXTINF:0,— Information —
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/3267.ts
-#EXTINF:0,FR- ITELE
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/462.ts
-#EXTINF:0,FR- TV5 Monde info
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/2298.ts
-#EXTINF:0,FR- BFM TV
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/1438.ts
-#EXTINF:0,FR – BFM Business
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/4641.ts
-#EXTINF:0,FR- Euronews
-http://enoezisan.home.dyndns.org:8000/live/abdel/abdel/270.ts
+http://cobra-iptv.noip.me:8000/live/papa/papa/3672.ts
+#EXTINF:-1,
+HOT 1
+
+http://cobra-iptv.noip.me:8000/live/papa/papa/8890.ts
+#EXTINF:-1,
+HOT 2
+
+http://cobra-iptv.noip.me:8000/live/papa/papa/8891.ts
+#EXTINF:-1,
+HOT 3
+
+http://cobra-iptv.noip.me:8000/live/papa/papa/8892.ts
+#EXTINF:-1,
+HOT 4
+
+http://cobra-iptv.noip.me:8000/live/papa/papa/8893.ts
+#EXTINF:-1,
+HOT 5
+
+http://cobra-iptv.noip.me:8000/live/papa/papa/8894.ts
+#EXTINF:-1,
+HOT 6
+
+http://cobra-iptv.noip.me:8000/live/papa/papa/8895.ts
+#EXTINF:-1,
+HOT 7
+
+http://cobra-iptv.noip.me:8000/live/papa/papa/8896.ts
+#EXTINF:-1,
+HOT 8
+
+http://cobra-iptv.noip.me:8000/live/papa/papa/8897.ts
+#EXTINF:-1,
+HOT 9
+
+http://cobra-iptv.noip.me:8000/live/papa/papa/8898.ts
+#EXTINF:-1,
+HOT 10
+
+http://cobra-iptv.noip.me:8000/live/papa/papa/8899.ts
+#EXTINF:-1,
+HOT 11
+
+http://cobra-iptv.noip.me:8000/live/papa/papa/8900.ts
+#EXTINF:-1,
+HOT 12
+
+http://cobra-iptv.noip.me:8000/live/papa/papa/8901.ts
+#EXTINF:-1,
+Dorcel
+
+http://cobra-iptv.noip.me:8000/live/papa/papa/4621.ts
