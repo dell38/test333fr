@@ -1,54 +1,183 @@
 #EXTM3U
-#EXTINF:-1,
+#EXTINF:-1,Private_TV
+http://5.135.139.145:80/Private_TV/mono.m3u8
+#EXTINF:-1,HustlerTV
+http://5.135.139.145:80/HustlerTV/mono.m3u8
+#EXTINF:-1,Eroxxx_HD
+http://5.135.139.145:80/Eroxxx_HD/mono.m3u8
+#EXTINF:-1,XX Redlight HD
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/232.ts
+#EXTINF:-1,XX: Penthouse 1
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/231.ts
+#EXTINF:-1,XX T Girls Tv
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/238.ts
+#EXTINF:-1,XX SuperOne
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/236.ts
+#EXTINF:-1,XX Sexto Senso TV
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/237.ts
 Hustler HD
-
-http://51.254.45.188/live/relly/relly/4486.ts
-#EXTINF:-1
-CentoxCento
-http://51.254.45.188/live/relly/relly/4510.ts
-#EXTINF:-1,
-Hot Club 1 HD
-
-http://51.254.45.188/live/relly/relly/1000.ts
-#EXTINF:-1,
-Hot Club 2 HD
-
-http://51.254.45.188/live/relly/relly/1020.ts
-#EXTINF:-1,
-Hot Club 3 HD
-
-http://51.254.45.188/live/relly/relly/1021.ts
-#EXTINF:-1,
-Hot Club 4 HD
-
-http://51.254.45.188/live/relly/relly/1022.ts
-#EXTINF:-1,
-Hot Club 5 HD
-
-http://51.254.45.188/live/relly/relly/1120.ts
-#EXTINF:-1,
-Hot Club 6 HD
-
-http://51.254.45.188/live/relly/relly/1121.ts
-#EXTINF:-1,
-Hot Club 7 HD
-
-http://51.254.45.188/live/relly/relly/1122.ts
-#EXTINF:-1,
-Hot Club 8 HD
-
-http://51.254.45.188/live/relly/relly/1573.ts
-#EXTINF:-1,
-Hot Club 9 HD
-
-http://51.254.45.188/live/relly/relly/2637.ts
-#EXTINF:-1,
-Hot Club 10 HD
-
-http://51.254.45.188/live/relly/relly/2904.ts
-#EXTINF:-1,
-Redlight HD
-
-http://51.254.45.188/live/relly/relly/4485.ts
-
+http://109.182.125.170:1234/udp/232.2.6.10:5002
+#EXTINF:-1,Dorcel TV
+http://109.182.125.170:1234/udp/232.4.4.15:5002
+#EXTINF:-1,Erox HD
+http://109.182.125.170:1234/udp/232.4.4.16:5002
+#EXTINF:-1,Ero HD
+http://109.182.125.170:1234/udp/232.4.4.14:5002
+#EXTINF:-1,Playboy TV
+http://109.182.125.170:1234/udp/232.4.3.38:5002
+#EXTINF:-1,SCT
+http://109.182.125.170:1234/udp/232.4.4.3:5002
+#EXTINF:-1,Free X TV
+http://109.182.125.170:1234/udp/232.4.3.36:5002 
+#EXTINF:-1,XX SCT HQ
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/234.ts
+#EXTINF:-1,XX SCT HD
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/235.ts
+#EXTINF:-1,XX Platinum TV
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/229.ts
+#EXTINF:-1,XX PinkO TV
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/228.ts
+#EXTINF:-1,XX Hustler HD
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/227.ts
+#EXTINF:-1,XX Hustler
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/226.ts
+#EXTINF:-1,XX Boy&Boy
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/230.ts
+#EXTINF:-1,XX EXOTICA TV
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/225.ts
+#EXTINF:-1,XX CENTOXCENTO TV
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/224.ts
+#EXTINF:-1,XX SATISFACTION
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/233.ts
+#EXTINF:-1,XX Primafila-Hot-Club-1
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/239.ts
+#EXTINF:-1,XX Primafila-Hot-Club-2
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/240.ts
+#EXTINF:-1,XX Primafila-Hot-Club 4
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/242.ts
+#EXTINF:-1,XX Primafila-Hot-Club-3
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/241.ts
+#EXTINF:-1,XX Primafila-Hot-Club-5
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/243.ts
+#EXTINF:-1,XX Primafila-Hot-Club-6
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/244.ts
+#EXTINF:-1,XX Primafila-Hot-Club-7
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/245.ts
+#EXTINF:-1,Hot Club 1
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/246.ts
+#EXTINF:-1,Hot Club 2
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/247.ts
+#EXTINF:-1,Hot Club 3
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/248.ts
+#EXTINF:-1,Hot Club 4
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/249.ts
+#EXTINF:-1,Hot Club 5
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/250.ts
+#EXTINF:-1,Hot Club 6
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/251.ts
+#EXTINF:-1,Hot Club 7
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/252.ts
+#EXTINF:-1,Hot Club 8
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/253.ts
+#EXTINF:-1,Hot Club 9
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/254.ts
+#EXTINF:-1,Hot Club 10
+http://therevenant.ddns.net:3880/live/edo1/N2qXASYP4v/255.ts
+#EXTINF:-1,XX: ??????? ????
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/7257.ts
+#EXTINF:-1,XX: Sirina
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/7261.ts
+#EXTINF:-1,XX: PassionXX
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/1417.ts
+#EXTINF:-1,XX: Sexto Senso
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/1415.ts
+#EXTINF:-1,XX: SCT HQ
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/1414.ts
+#EXTINF:-1,XX: SCT HD
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/1413.ts
+#EXTINF:-1,XX: Redlight HD
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/1412.ts
+#EXTINF:-1,XX: Privee TV
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/1411.ts
+#EXTINF:-1,XX: Platinum TV
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/1410.ts
+#EXTINF:-1,XX: Pink o TV
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/1409.ts
+#EXTINF:-1,XX: Hustler HD
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/1406.ts
+#EXTINF:-1,XX: Hustler
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/1405.ts
+#EXTINF:-1,XX: Venus
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/395.ts
+#EXTINF:-1,XX: Private
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/398.ts
+#EXTINF:-1,XX: PLAYBOY
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/396.ts
+#EXTINF:-1,XX: Penthouse
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/393.ts
+#EXTINF:-1,XX: Boy&Boy
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/399.ts
+#EXTINF:-1,XX: Frenchlover TV
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/397.ts
+#EXTINF:-1,XX: Brazzers
+http://iptv.alphacs.tv:8080/live/DGmL7bLF0F/l99WG6rkxd/394.ts
+#EXTINF:-1,Adults: Czech Streets Helena
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/440.mkv
+#EXTINF:-1,Adults: My Wifes Hot Friend Nicole Johnny
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/469.mkv
+#EXTINF:-1,Adults: My Wife Is My Pornstar  August Ames
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/468.mkv
+#EXTINF:-1,Adults: My Sisters Hot Friend Melissa Moore
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/467.mkv
+#EXTINF:-1,Adults: My Sisters Hot Friend Kate England
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/466.mkv
+#EXTINF:-1,Adults: My GirlfriendsBusty Friend Ashley Adams
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/465.mkv
+#EXTINF:-1,Adults: My Girlfriends Busty Friend  Ashley Adams
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/452.mkv
+#EXTINF:-1,Adults: My Friends Hot Mom Veronica Avluv Eva Notty
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/464.mkv
+#EXTINF:-1,Adults: My Friends Hot Mom Puma Swede
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/463.mkv
+#EXTINF:-1,Adults: My Friends Hot Mom Nora Nair
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/462.mkv
+#EXTINF:-1,Adults: My Friends Hot Mom Jessie Cash
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/461.mkv
+#EXTINF:-1,Adults: My Friends Hot Mom Jessica James
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/460.mkv
+#EXTINF:-1,Adults: My Friends Hot Mom Janessa Jordan
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/459.mkv
+#EXTINF:-1,Adults: My Friends Hot Mom Elexis Monroe
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/458.mkv
+#EXTINF:-1,Adults: My Friends Hot Mom Diana Prince
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/457.mkv
+#EXTINF:-1,Adults: My Friends Hot Mom Demi Dantric
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/456.mkv
+#EXTINF:-1,Adults: My Friends Hot Mom Claudia Valentine
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/455.mkv
+#EXTINF:-1,Adults: My Friends Hot Mom Ava Devine
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/454.mkv
+#EXTINF:-1,Adults: My Friends Hot Mom Alura Jenson
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/453.mkv
+#EXTINF:-1,Adults: My first sex teacher
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/451.mkv
+#EXTINF:-1,Adults: Czech Streets Krystina
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/444.mkv
+#EXTINF:-1,Adults: Czech Streets Tereza
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/435.mkv
+#EXTINF:-1,Adults: Czech Streets Verca
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/439.mkv
+#EXTINF:-1,Adults: Czech Streets 88
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/434.mkv
+#EXTINF:-1,Adults: Czech Streets 83
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/436.mkv
+#EXTINF:-1,Adults: Czech Streets 81
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/433.mkv
+#EXTINF:-1,Adults: BangBus Remy LaCroix
+http://iptv.alphacs.tv:8080/movie/DGmL7bLF0F/l99WG6rkxd/430.mkv 
+#EXTINF:-1,Primafila Hot Club 1 HD
+http://luckyiptv.ddns.net:23000/live/walter/walter/13159.ts
+#EXTINF:-1,Primafila Hot Club 2 HD
+http://luckyiptv.ddns.net:23000/live/walter/walter/13160.ts
+#EXTINF:-1,Primafila Hot Club 3 HD
 
