@@ -1,542 +1,331 @@
 #EXTM3U
+
+#EXTINF:-1,---CsatFR---------------------------
+http://149.202.77.226:7500/live/1111/1111/887.ts
+#EXTINF:-1,TF1
+http://149.202.77.226:7500/live/1111/1111/563.ts
+#EXTINF:-1,M6
+http://149.202.77.226:7500/live/1111/1111/564.ts
+#EXTINF:-1,France2
+http://149.202.77.226:7500/live/1111/1111/569.ts
+#EXTINF:-1,France3
+http://149.202.77.226:7500/live/1111/1111/570.ts
+#EXTINF:-1,France4
+http://149.202.77.226:7500/live/1111/1111/571.ts
+#EXTINF:-1,France5
+http://149.202.77.226:7500/live/1111/1111/572.ts
+#EXTINF:-1,Canal-Cinema
+http://149.202.77.226:7500/live/1111/1111/549.ts
+#EXTINF:-1,Canal-Decale
+http://149.202.77.226:7500/live/1111/1111/550.ts
+#EXTINF:-1,Canal-Family
+http://149.202.77.226:7500/live/1111/1111/551.ts
+#EXTINF:-1,Canal-Series
+http://149.202.77.226:7500/live/1111/1111/552.ts
+#EXTINF:-1,Canal-Sport
+http://149.202.77.226:7500/live/1111/1111/602.ts
+#EXTINF:-1,Cine-Frisson
+http://149.202.77.226:7500/live/1111/1111/553.ts
+#EXTINF:-1,Cine-Famiz
+http://149.202.77.226:7500/live/1111/1111/557.ts
+#EXTINF:-1,Cine-Emotion
+http://149.202.77.226:7500/live/1111/1111/555.ts
+#EXTINF:-1,TELETOONplus
+http://149.202.77.226:7500/live/1111/1111/620.ts
+#EXTINF:-1,Disney-channel-fr
+http://149.202.77.226:7500/live/1111/1111/1271.ts
+#EXTINF:-1,---CsatFR---------------------------
+http://esiptv.tn:7500/live/adel/adel/887.ts
+#EXTINF:-1,M6
+http://esiptv.tn:7500/live/adel/adel/564.ts
+#EXTINF:-1,TF1
+http://esiptv.tn:7500/live/adel/adel/563.ts
+#EXTINF:-1,W9
+http://esiptv.tn:7500/live/adel/adel/566.ts
+#EXTINF:-1,NT1
+http://esiptv.tn:7500/live/adel/adel/878.ts
+#EXTINF:-1,NRJ12
+http://esiptv.tn:7500/live/adel/adel/877.ts
+#EXTINF:-1,HD1
+http://esiptv.tn:7500/live/adel/adel/1270.ts
+#EXTINF:-1,TMC
+http://esiptv.tn:7500/live/adel/adel/1272.ts
+#EXTINF:-1,Disney-channel-fr
+http://esiptv.tn:7500/live/adel/adel/1271.ts
+#EXTINF:-1,Kombat-Sport
+http://esiptv.tn:7500/live/adel/adel/1269.ts
+#EXTINF:-1,Canal
+http://esiptv.tn:7500/live/adel/adel/548.ts
+#EXTINF:-1,Canal-Cinema
+http://esiptv.tn:7500/live/adel/adel/549.ts
+#EXTINF:-1,Canal-Family
+http://esiptv.tn:7500/live/adel/adel/551.ts
+#EXTINF:-1,Canal-Sport
+http://esiptv.tn:7500/live/adel/adel/602.ts
+#EXTINF:-1,Canal-Series
+http://esiptv.tn:7500/live/adel/adel/552.ts
+#EXTINF:-1,Canal-Decale
+http://esiptv.tn:7500/live/adel/adel/550.ts
+#EXTINF:-1,Cine-Premier
+http://esiptv.tn:7500/live/adel/adel/554.ts
+#EXTINF:-1,Cine-Frisson
+http://esiptv.tn:7500/live/adel/adel/553.ts
+#EXTINF:-1,Cine-Famiz
+http://esiptv.tn:7500/live/adel/adel/557.ts
+#EXTINF:-1,Cine-Emotion
+http://esiptv.tn:7500/live/adel/adel/555.ts
+#EXTINF:-1,Cine-Classic
+http://esiptv.tn:7500/live/adel/adel/556.ts
+#EXTINF:-1,TEVA
+http://esiptv.tn:7500/live/adel/adel/583.ts
+#EXTINF:-1,VOYAGE
+http://esiptv.tn:7500/live/adel/adel/592.ts
+#EXTINF:-1,USHUAIA
+http://esiptv.tn:7500/live/adel/adel/593.ts
+#EXTINF:-1,Chasse-Peche
+http://esiptv.tn:7500/live/adel/adel/883.ts
+#EXTINF:-1,Animaux
+http://esiptv.tn:7500/live/adel/adel/853.ts
+#EXTINF:-1,TV5-Monde
+http://esiptv.tn:7500/live/adel/adel/401.ts
+#EXTINF:-1,Tv-Breizh
+http://esiptv.tn:7500/live/adel/adel/575.ts
+#EXTINF:-1,TELETOONplus
+http://esiptv.tn:7500/live/adel/adel/620.ts
+#EXTINF:-1,TIJI
+http://esiptv.tn:7500/live/adel/adel/614.ts
+#EXTINF:-1,Serie-Club
+http://esiptv.tn:7500/live/adel/adel/579.ts
+#EXTINF:-1,SYFY
+http://esiptv.tn:7500/live/adel/adel/584.ts
+#EXTINF:-1,SRF-Zwei
+http://esiptv.tn:7500/live/adel/adel/623.ts
+#EXTINF:-1,SRF
+http://esiptv.tn:7500/live/adel/adel/622.ts
+#EXTINF:-1,RTS-Un
+http://esiptv.tn:7500/live/adel/adel/624.ts
+#EXTINF:-1,RTS-Deux
+http://esiptv.tn:7500/live/adel/adel/625.ts
+#EXTINF:-1,SPORT365
+http://esiptv.tn:7500/live/adel/adel/606.ts
+#EXTINF:-1,PLANETE-AE
+http://esiptv.tn:7500/live/adel/adel/588.ts
+#EXTINF:-1,PLANETE-CI
+http://esiptv.tn:7500/live/adel/adel/587.ts
+#EXTINF:-1,PlANETE
+http://esiptv.tn:7500/live/adel/adel/586.ts
+#EXTINF:-1,Paris-Premiere
+http://esiptv.tn:7500/live/adel/adel/576.ts
+#EXTINF:-1,Ocs-Max
+http://esiptv.tn:7500/live/adel/adel/561.ts
+#EXTINF:-1,Ocs-Geant
+http://esiptv.tn:7500/live/adel/adel/560.ts
+#EXTINF:-1,Ocs-City
+http://esiptv.tn:7500/live/adel/adel/558.ts
+#EXTINF:-1,Ocs-CHoc
+http://esiptv.tn:7500/live/adel/adel/559.ts
+#EXTINF:-1,NATIONAL-GEO
+http://esiptv.tn:7500/live/adel/adel/598.ts
+#EXTINF:-1,France24
+http://esiptv.tn:7500/live/adel/adel/397.ts
+#EXTINF:-1,JUNE
+http://esiptv.tn:7500/live/adel/adel/585.ts
+#EXTINF:-1,HISTOIRE
+http://esiptv.tn:7500/live/adel/adel/597.ts
+#EXTINF:-1,France2
+http://esiptv.tn:7500/live/adel/adel/569.ts
+#EXTINF:-1,France3
+http://esiptv.tn:7500/live/adel/adel/570.ts
+#EXTINF:-1,France4
+http://esiptv.tn:7500/live/adel/adel/571.ts
+#EXTINF:-1,France5
+http://esiptv.tn:7500/live/adel/adel/572.ts
+#EXTINF:-1,France0
+http://esiptv.tn:7500/live/adel/adel/573.ts
+#EXTINF:-1,FOOT24
+http://esiptv.tn:7500/live/adel/adel/607.ts
+#EXTINF:-1,Eurosport2
+http://esiptv.tn:7500/live/adel/adel/608.ts
+#EXTINF:-1,NFOSPORTPLUS
+http://esiptv.tn:7500/live/adel/adel/1273.ts
+#EXTINF:-1,Eurosport1
+http://esiptv.tn:7500/live/adel/adel/609.ts
+#EXTINF:-1,EQUIDIA-LIFE
+http://esiptv.tn:7500/live/adel/adel/610.ts
+#EXTINF:-1,DISNEY-CHANNEL
+http://esiptv.tn:7500/live/adel/adel/619.ts
+#EXTINF:-1,DISCOVERY-SCIENCE
+http://esiptv.tn:7500/live/adel/adel/601.ts
+#EXTINF:-1,D8
+http://esiptv.tn:7500/live/adel/adel/567.ts
+#EXTINF:-1,D17
+http://esiptv.tn:7500/live/adel/adel/568.ts
+#EXTINF:-1,Piwi
+http://esiptv.tn:7500/live/adel/adel/882.ts
+#EXTINF:-1,BOOMERANG
+http://esiptv.tn:7500/live/adel/adel/613.ts
+#EXTINF:-1,6Ter
+http://esiptv.tn:7500/live/adel/adel/565.ts
+#EXTINF:-1,13Eme-RUE
+http://esiptv.tn:7500/live/adel/adel/578.ts
+#EXTINF:-1,CANALJ
+http://esiptv.tn:7500/live/adel/adel/612.ts
+#EXTINF:-1,RTL-TVI-HD
+http://esiptv.tn:7500/live/adel/adel/1215.ts
+#EXTINF:-1,PLUG-RTL
+http://esiptv.tn:7500/live/adel/adel/1216.ts
+#EXTINF:-1,LA-UNE-HD
+http://esiptv.tn:7500/live/adel/adel/1217.ts
+#EXTINF:-1,LA-DEUX
+http://esiptv.tn:7500/live/adel/adel/1219.ts
+#EXTINF:-1,LA-TROIS
+http://esiptv.tn:7500/live/adel/adel/1218.ts
+#EXTINF:-1,CLUB-RTL
+http://esiptv.tn:7500/live/adel/adel/1220.ts
 #EXTM3U
-#EXTINF:-1,+++++ FRANCE +++++
-http://iptvsale.info:8889/live/taki/taki/120.ts
-#EXTINF:-1,FR: TF1
-http://iptvsale.info:8889/live/taki/taki/525.ts
-#EXTINF:-1,FR: Tebeo
-http://iptvsale.info:8889/live/taki/taki/540.ts
-#EXTINF:-1,FR: LA Deux HD
-http://iptvsale.info:8889/live/taki/taki/539.ts
-#EXTINF:-1,FR: M6
-http://iptvsale.info:8889/live/taki/taki/273.ts
-#EXTINF:-1,FR: Gulli
-http://iptvsale.info:8889/live/taki/taki/261.ts
-#EXTINF:-1,FR: EQUIPE 21
-http://iptvsale.info:8889/live/taki/taki/1114.ts
-#EXTINF:-1,FR: Canal J
-http://iptvsale.info:8889/live/taki/taki/256.ts
-#EXTINF:-1,FR: Syfy
-http://iptvsale.info:8889/live/taki/taki/254.ts
-#EXTINF:-1,FR: W9
-http://iptvsale.info:8889/live/taki/taki/107.ts
-#EXTINF:-1,FR: Arte
-http://iptvsale.info:8889/live/taki/taki/98.ts
-#EXTINF:-1,FR: RTL 9 HD
-http://iptvsale.info:8889/live/taki/taki/104.ts
-#EXTINF:-1,FR: TV5 Monde
-http://iptvsale.info:8889/live/taki/taki/96.ts
-#EXTINF:-1,FR: France 0
-http://iptvsale.info:8889/live/taki/taki/108.ts
-#EXTINF:-1,FR: TMC
-http://iptvsale.info:8889/live/taki/taki/771.ts
-#EXTINF:-1,FR: Paris Premiere
-http://iptvsale.info:8889/live/taki/taki/769.ts
-#EXTINF:-1,FR: HD1
-http://iptvsale.info:8889/live/taki/taki/770.ts
-#EXTINF:-1,FR: E!
-http://iptvsale.info:8889/live/taki/taki/768.ts
-#EXTINF:-1,FR: France 2
-http://iptvsale.info:8889/live/taki/taki/109.ts
-#EXTINF:-1,FR: France 3
-http://iptvsale.info:8889/live/taki/taki/110.ts
-#EXTINF:-1,FR: France 4
-http://iptvsale.info:8889/live/taki/taki/111.ts
-#EXTINF:-1,FR: France 5
-http://iptvsale.info:8889/live/taki/taki/102.ts
-#EXTINF:-1,FR: France 24
-http://iptvsale.info:8889/live/taki/taki/106.ts
-#EXTINF:-1,FR: Euronews
-http://iptvsale.info:8889/live/taki/taki/101.ts
-#EXTINF:-1,FR: Enorme TV
-http://iptvsale.info:8889/live/taki/taki/105.ts
-#EXTINF:-1,FR: BFM TV
-http://iptvsale.info:8889/live/taki/taki/97.ts
-#EXTINF:-1,FR: Cine Polar
-http://iptvsale.info:8889/live/taki/taki/772.ts
-#EXTINF:-1,FR: Cine+ Frisson
-http://iptvsale.info:8889/live/taki/taki/521.ts
-#EXTINF:-1,FR: Cine+ Famiz
-http://iptvsale.info:8889/live/taki/taki/522.ts
-#EXTINF:-1,FR: Cine+ Premier
-http://iptvsale.info:8889/live/taki/taki/524.ts
-#EXTINF:-1,FR: Cine+ Emotion
-http://iptvsale.info:8889/live/taki/taki/523.ts
-#EXTINF:-1,FR: Disney Cinema
-http://iptvsale.info:8889/live/taki/taki/251.ts
-#EXTINF:-1,FR: Canal HD
-http://iptvsale.info:8889/live/taki/taki/212.ts
-#EXTINF:-1,FR: Canal+ Cinema
-http://iptvsale.info:8889/live/taki/taki/250.ts
-#EXTINF:-1,FR: Canal+ Family
-http://iptvsale.info:8889/live/taki/taki/215.ts
-#EXTINF:-1,FR: Canal+ Decale
-http://iptvsale.info:8889/live/taki/taki/214.ts
-#EXTINF:-1,FR: Canal+ Serie
-http://iptvsale.info:8889/live/taki/taki/216.ts
-#EXTINF:-1,FR: Canal+ Sport
-http://iptvsale.info:8889/live/taki/taki/213.ts
-#EXTINF:-1,FR: InfoSport+
-http://iptvsale.info:8889/live/taki/taki/543.ts
-#EXTINF:-1,FR: Cinema 1
-http://iptvsale.info:8889/live/taki/taki/773.ts
-#EXTINF:-1,FR: Cinema 2
-http://iptvsale.info:8889/live/taki/taki/774.ts
-#EXTINF:-1,FR: Cinema 3
-http://iptvsale.info:8889/live/taki/taki/775.ts
-#EXTINF:-1,FR: Animaux
-http://iptvsale.info:8889/live/taki/taki/99.ts
-#EXTINF:-1,FR: Planete+
-http://iptvsale.info:8889/live/taki/taki/260.ts
-#EXTINF:-1,FR: Planete+ CI
-http://iptvsale.info:8889/live/taki/taki/103.ts
-#EXTINF:-1,FR: Planete+ A&E
-http://iptvsale.info:8889/live/taki/taki/259.ts
-#EXTINF:-1,FR: Nat Geo Wild
-http://iptvsale.info:8889/live/taki/taki/257.ts
-#EXTINF:-1,FR: National Geographic
-http://iptvsale.info:8889/live/taki/taki/258.ts
-#EXTINF:-1,FR: Science & Vie TV
-http://iptvsale.info:8889/live/taki/taki/538.ts
-#EXTINF:-1,FR: Discovery Science
-http://iptvsale.info:8889/live/taki/taki/255.ts
-#EXTINF:-1,FR: Disney XD
-http://iptvsale.info:8889/live/taki/taki/253.ts
-#EXTINF:-1,FR: Bein Sport 1 FR
-http://iptvsale.info:8889/live/taki/taki/94.ts
-#EXTINF:-1,FR: Bein Sport 2 FR
-http://iptvsale.info:8889/live/taki/taki/95.ts
-#EXTINF:-1,FR: Bein Sport 3 FR
-http://iptvsale.info:8889/live/taki/taki/252.ts
-#EXTINF:-1,FR: Eurosport
-http://iptvsale.info:8889/live/taki/taki/100.ts
-#EXTINF:-1,FR: Eurosport 2#EXTINF:-1,Good Food
-http://5.255.90.224:5000/play/a09w
-#EXTINF:-1,TLC
-http://5.255.90.224:5000/play/a051
-#EXTINF:-1,Sky Sports F1
-http://5.255.90.224:5000/play/a08n
-#EXTINF:-1,Pick
-http://5.255.90.224:5000/play/a086
-#EXTINF:-1,RT. 2FM
-http://5.255.90.224:5000/play/a07f
-#EXTINF:-1,Sky1 +1
-http://5.255.90.224:5000/play/a05w
-#EXTINF:-1,Sky Arts 
-http://5.255.90.224:5000/play/a05y
-#EXTINF:-1,Home
-http://5.255.90.224:5000/play/a09r
-#EXTINF:-1,H2
-http://5.255.90.224:5000/play/a06r
-#EXTINF:-1,Sky Disney 
-http://5.255.90.224:5000/play/a09f
-#EXTINF:-1,alibi
-http://5.255.90.224:5000/play/a09y
-#EXTINF:-1,Nat Geo+1hr
-http://5.255.90.224:5000/play/a06n
-#EXTINF:-1,RT.2
-http://5.255.90.224:5000/play/a07a
-#EXTINF:-1,Discovery
-http://5.255.90.224:5000/play/a04j
-#EXTINF:-1,Sky2
-http://5.255.90.224:5000/play/a087
-#EXTINF:-1,SkyNws Arabia
-http://5.255.90.224:5000/play/a07s
-#EXTINF:-1,TG4
-http://5.255.90.224:5000/play/a07b
-#EXTINF:-1,GOLD
-http://5.255.90.224:5000/play/a09t
-#EXTINF:-1,Eden
-http://5.255.90.224:5000/play/a09s
-#EXTINF:-1,RT. One +1
-http://5.255.90.224:5000/play/a07n
-#EXTINF:-1,Dave
-http://5.255.90.224:5000/play/a09v
-#EXTINF:-1,W
-http://5.255.90.224:5000/play/a09x
-#EXTINF:-1,Nat Geo Wild
-http://5.255.90.224:5000/play/a06p
-#EXTINF:-1,Really
-http://5.255.90.224:5000/play/a0a0
-#EXTINF:-1,Sky Spts F1
-http://5.255.90.224:5000/play/a05r
-#EXTINF:-1,SkyDramaRom
-http://5.255.90.224:5000/play/a09c
-#EXTINF:-1,Sky Musicals
-http://5.255.90.224:5000/play/a09b
-#EXTINF:-1,Sky Select
-http://5.255.90.224:5000/play/a09a
-#EXTINF:-1,Sky ScFi/Horror
-http://5.255.90.224:5000/play/a098
-#EXTINF:-1,Sky Thriller
-http://5.255.90.224:5000/play/a09d
-#EXTINF:-1,Disc.Turbo
-http://5.255.90.224:5000/play/a04x
-#EXTINF:-1,Sky Prem+1
-http://5.255.90.224:5000/play/a09e
-#EXTINF:-1,Sky Action
-http://5.255.90.224:5000/play/a095
-#EXTINF:-1,Crime+Inv
-http://5.255.90.224:5000/play/a06j
-#EXTINF:-1,UTV Ireland
-http://5.255.90.224:5000/play/a06u
-#EXTINF:-1,Cartoonito
-http://5.255.90.224:5000/play/a05v
-#EXTINF:-1,Sky Sports 4
-http://5.255.90.224:5000/play/a0a1
-#EXTINF:-1,Nat Geo
-http://5.255.90.224:5000/play/a06m
-#EXTINF:-1,FOX
-http://5.255.90.224:5000/play/a05q
-#EXTINF:-1,Sky Premiere
-http://5.255.90.224:5000/play/a097
-#EXTINF:-1,ComedyXtra
-http://5.255.90.224:5000/play/a04a
-#EXTINF:-1,MUTV
-http://5.255.90.224:5000/play/a06o
-#EXTINF:-1,ID
-http://5.255.90.224:5000/play/a050
-#EXTINF:-1,Drama
-http://5.255.90.224:5000/play/a09z
-#EXTINF:-1,RT. Radio 1
-http://5.255.90.224:5000/play/a07e
-#EXTINF:-1,Oireachtas TV
-http://5.255.90.224:5000/play/a07d
-#EXTINF:-1,Sky Shop
-http://5.255.90.224:5000/play/a075
-#EXTINF:-1,Disc.Science
-http://5.255.90.224:5000/play/a04n
-#EXTINF:-1,Sky Sp NewsHQ
-http://5.255.90.224:5000/play/a07z
-#EXTINF:-1,Real Lives
-http://5.255.90.224:5000/play/a06t
-#EXTINF:-1,ComedyXtra+1
-http://5.255.90.224:5000/play/a04b
-#EXTINF:-1,QUEST
-http://5.255.90.224:5000/play/a04z
-#EXTINF:-1,RT. Lyric fm
-http://5.255.90.224:5000/play/a07h
-#EXTINF:-1,Sky Living+1
-http://5.255.90.224:5000/play/a07r
-#EXTINF:-1,Disc.History
-http://5.255.90.224:5000/play/a057
-#EXTINF:-1,Nick Jr+1
-http://5.255.90.224:5000/play/a04e
-#EXTINF:-1,ComedyCent+1
-http://5.255.90.224:5000/play/a047
-#EXTINF:-1,At The Races
-http://5.255.90.224:5000/play/a06g
-#EXTINF:-1,MTV MUSIC
-http://5.255.90.224:5000/play/a04h
-#EXTINF:-1,ComedyCentral
-http://5.255.90.224:5000/play/a048
-#EXTINF:-1,TV3
-http://5.255.90.224:5000/play/a05o
-#EXTINF:-1,Chelsea TV
-http://5.255.90.224:5000/play/a085
-#EXTINF:-1,Sky Sports 2
-http://5.255.90.224:5000/play/a081
-#EXTINF:-1,RT. R na G
-http://5.255.90.224:5000/play/a07g
-#EXTINF:-1,Animal Planet
-http://5.255.90.224:5000/play/a053
-#EXTINF:-1,Community
-http://5.255.90.224:5000/play/a089
-
-#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR orange][I][B]----------------------- SOMETIMES ON / OFF -----------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,BBC ONE South
-http://86.26.74.20:9981/stream/channelid/634667925?ticket=8102A21B654443B3E024F85877F54D55A8D2B198&profile=web_low
-#EXTINF:-1,BBC TWO
-http://86.26.74.20:9981/stream/channelid/1653954202?ticket=2E0EC02EB324F52BF792B706D11E76B470EE928D&profile=web_low
-#EXTINF:-1,ITV
-http://86.26.74.20:9981/stream/channelid/859161436?ticket=71FB4DD60F324925FB80B342545E62DD1816B19D&profile=web_low
-#EXTINF:-1,Channel 4
-http://86.26.74.20:9981/stream/channelid/1596643573?ticket=6F5AEA00D3A437A97722AB0773DCC40BB963462D&profile=web_low
-#EXTINF:-1,Channel 5
-http://86.26.74.20:9981/stream/channelid/366659717?ticket=0595A8FAF87FFEC6C0D7C9A48591F3A7D929D208&profile=web_low
-#EXTINF:-1,ITV2
-http://86.26.74.20:9981/stream/channelid/1169881578?ticket=9E0BF6B845F7DBCF7952C40751108B56C8291DB8&profile=web_low
-#EXTINF:-1,BBC FOUR
-http://86.26.74.20:9981/stream/channelid/652406860?ticket=DC7CBE69D8B868409D1EEB16AC370FAB14D58AB7&profile=web_low
-#EXTINF:-1,ITV3
-http://86.26.74.20:9981/stream/channelid/770605415?ticket=685DB7ABB8657809504D9F8AA0A6BB37C4CBD0FB&profile=web_low
-#EXTINF:-1,Pick
-http://86.26.74.20:9981/stream/channelid/125410769?ticket=C31FB8F6EE7F8E223A4EF627CCDF3BAD30C2ACC0&profile=web_low
-#EXTINF:-1,Dave
-http://86.26.74.20:9981/stream/channelid/653595680?ticket=C5C7CB4DEBEB8EC9742079451850A50E98E0F8C1&profile=web_low
-#EXTINF:-1,Channel 4+1
-http://86.26.74.20:9981/stream/channelid/860068106?ticket=4EBE0C7543F80A97A53704A4522460C649A558BF&profile=web_low
-#EXTINF:-1,More 4
-http://86.26.74.20:9981/stream/channelid/649101815?ticket=F424946FFB6DB8E8674FFE63BA9B667CCF9B0375&profile=web_low
-#EXTINF:-1,Film4
-http://86.26.74.20:9981/stream/channelid/1316323629?ticket=2B888D5FE4A0C9A6D370D2CBBA1625473C49615E&profile=web_low
-#EXTINF:-1,Really
-http://86.26.74.20:9981/stream/channelid/1378419937?ticket=BFF419A5A4645F343843CEC5331ACE51493526AD&profile=web_low
-#EXTINF:-1,4Music
-http://86.26.74.20:9981/stream/channelid/776515427?ticket=67582856A80E80E7F6A0573E879612AE8EEB2BFC&profile=web_low
-#EXTINF:-1,Yesterday
-http://86.26.74.20:9981/stream/channelid/1127237427?ticket=4BC2A9A5764C414C23B87F3DDA479F706C34F749&profile=web_low
-#EXTINF:-1,Drama
-http://86.26.74.20:9981/stream/channelid/171599787?ticket=EB288BDFF71488D5C9576CC7D2EC2DD869B3A6CB&profile=web_low
-#EXTINF:-1,5 USA
-http://86.26.74.20:9981/stream/channelid/19017029?ticket=5FC7B7AC9A1494FE97D246A42A6EE6C85AEEF636&profile=web_low
-#EXTINF:-1,ITV4
-http://86.26.74.20:9981/stream/channelid/1599218692?ticket=F13B15684B6BE8623C6B9C0E507B540067FAE890&profile=web_low
-#EXTINF:-1,Home
-http://86.26.74.20:9981/stream/channelid/1957974441?ticket=2E8AE5EFDCFF3EB7748C52A6D0876A8936834AF2&profile=web_low
-#EXTINF:-1,ITVBe
-http://86.26.74.20:9981/stream/channelid/2005732827?ticket=0B27F6F8D41DB5F447BAB14819CDBBCDCDCA433B&profile=web_low
-#EXTINF:-1,ITV2 +1
-http://86.26.74.20:9981/stream/channelid/433474948?ticket=65447E04D71E08CE31F3F22ACC7BBECF58F0D2C6&profile=web_low
-#EXTINF:-1,E4
-http://86.26.74.20:9981/stream/channelid/2043720070?ticket=CF6B83773A09146EECEDCFC4B32D6A314A3EFBA2&profile=web_low
-#EXTINF:-1,E4+1
-http://86.26.74.20:9981/stream/channelid/1110446313?ticket=FADD6B82C3148FBA48D9A3F4E6945FD4B7C9F361&profile=web_low
-#EXTINF:-1,5STAR
-http://86.26.74.20:9981/stream/channelid/962349134?ticket=6375F450EDB7535A0A0ACDF490C798C158775E6E&profile=web_low
-#EXTINF:-1,Spike
-http://86.26.74.20:9981/stream/channelid/587337414?ticket=CA949E5713EA2AC3CE388A13DEE96EAB6A82E93E&profile=web_low
-#EXTINF:-1,Movie Mix
-http://86.26.74.20:9981/stream/channelid/1520241262?ticket=3703915F4D02A618B69989FBD0452D3B36308AA8&profile=web_low
-#EXTINF:-1,ITV +1
-http://86.26.74.20:9981/stream/channelid/735381353?ticket=C6A2971F498F0F9CC29F2B4DBEF853A682D73640&profile=web_low
-#EXTINF:-1,QUEST
-http://86.26.74.20:9981/stream/channelid/1186291179?ticket=B7B89A716FBB581168A7E1DADBAE18BCDBD18F99&profile=web_low
-#EXTINF:-1,QUEST+1
-http://86.26.74.20:9981/stream/channelid/586299673?ticket=015375A168EC14F11F7D70E67779A3EE687EB446&profile=web_low
-#EXTINF:-1,Food Network
-http://86.26.74.20:9981/stream/channelid/121648711?ticket=A3BDE73D1D9DC60BF7E2DB66597A253BC5A5E12C&profile=web_low
-#EXTINF:-1,Travel Channel
-http://86.26.74.20:9981/stream/channelid/1552865577?ticket=ADD396CC210BDA95A5EE69185E988988B45DB4D2&profile=web_low
-#EXTINF:-1,Channel 5+1
-http://86.26.74.20:9981/stream/channelid/375084322?ticket=451CD14D491DD6CD4681246CFB398085FAAA5D46&profile=web_low
-#EXTINF:-1,Challenge
-http://86.26.74.20:9981/stream/channelid/1656985339?ticket=C0F3CD3F7AD047AD8B04FD392F40BDF11B94AE36&profile=web_low
-#EXTINF:-1,4seven
-http://86.26.74.20:9981/stream/channelid/202097374?ticket=A8FD855DB5E02859D5D88E471AF5A4DE898F2214&profile=web_low
-#EXTINF:-1,movies4men
-http://86.26.74.20:9981/stream/channelid/1831905102?ticket=4A7EF5F28808BAA2D0F73D7DBFE4DE6F80637451&profile=web_low
-#EXTINF:-1,My5
-http://86.26.74.20:9981/stream/channelid/750841406?ticket=4F47F78861E962B4B7C3A36D05B396870FA38C32&profile=web_low
-#EXTINF:-1,ITVBe+1
-http://86.26.74.20:9981/stream/channelid/839522390?ticket=0A685807C9ECDAD0C4F122AC775065ABA971D26C&profile=web_low
-#EXTINF:-1,True Entertainment
-http://86.26.74.20:9981/stream/channelid/166057892?ticket=48EED798079ABBE8737E59A5A6FEA8F1588D12F7&profile=web_low
-#EXTINF:-1,CBS Action
-http://86.26.74.20:9981/stream/channelid/1293860702?ticket=B9E78E27E20F5FD362935CEBAD5EBF2EDEB9C401&profile=web_low
-#EXTINF:-1,CBS Reality
-http://86.26.74.20:9981/stream/channelid/652365658?ticket=69620558324A1569203D6ECF8A3B661F697789BB&profile=web_low
-#EXTINF:-1,truTV
-http://86.26.74.20:9981/stream/channelid/103064863?ticket=CE75DC358755FA95AFEDA29044E1A58AB18023F2&profile=web_low
-#EXTINF:-1,truTV+1
-http://86.26.74.20:9981/stream/channelid/1597062157?ticket=371371E93F6C086A6841A1F74EB19D10402BEEC8&profile=web_low
-#EXTINF:-1,Horror Channel
-http://86.26.74.20:9981/stream/channelid/2072083071?ticket=4FFAD9870C09B99C4FBEA1F46B9FACD4CD34305C&profile=web_low
-#EXTINF:-1,YourTV
-http://86.26.74.20:9981/stream/channelid/1516552166?ticket=B29DAAD48F79EA33D266DF3185DE4212EBF065CC&profile=web_low
-#EXTINF:-1,Dave ja vu
-http://86.26.74.20:9981/stream/channelid/1884384040?ticket=CC3E2A756E4FD4140BC0E4150048968A30C351C6&profile=web_low
-#EXTINF:-1,BBC NEWS
-http://86.26.74.20:9981/stream/channelid/1175612879?ticket=2C265549D8DDE0CB33023D3E7C11F2006127B123&profile=web_low
-#EXTINF:-1,BBC Parliament
-http://86.26.74.20:9981/stream/channelid/409460826?ticket=EC7A703F1E6115792C7B9DF0F4BA8366CF587B0C&profile=web_high
-#EXTINF:-1,Sky News
-http://86.26.74.20:9981/stream/channelid/496470686?ticket=9E2DA7AB8239B20F145D7741E5B1FC87CB0D07E6&profile=web_low
-#EXTINF:-1,BBC RB 1
-http://86.26.74.20:9981/stream/channelid/998850833?ticket=F52ACE1E40C97B4205C096DD61B829EFD79CAC63&profile=web_low
-#EXTINF:-1,BBC Radio 1
-http://86.26.74.20:9981/stream/channelid/1399321213?ticket=9AC19D37B98A2E1321FF8506667EAF2BB29833D5&profile=web_low
-#EXTINF:-1,BBC R1X
-http://86.26.74.20:9981/stream/channelid/1752919276?ticket=8B246DCF1992F49A5DBE528640B3FA0BDB0D4FF8&profile=web_low
-#EXTINF:-1,BBC Radio 2
-http://86.26.74.20:9981/stream/channelid/1396108796?ticket=38CCAA547EF54E685B2FD6BF2F55082013FBA2F8&profile=web_low
-#EXTINF:-1,BBC Radio 3
-http://86.26.74.20:9981/stream/channelid/1294572305?ticket=7D80A01A75ADE483F39028AC78F06EFAAC8A5D17&profile=web_low
-#EXTINF:-1,BBC Radio 4
-http://86.26.74.20:9981/stream/channelid/1576518032?ticket=19EFA8D22264BFCF53C6B1C452AEDC9C8480457D&profile=web_low
-#EXTINF:-1,BBC R5L
-http://86.26.74.20:9981/stream/channelid/1057658520?ticket=0ACACE9D9D619BE4418A193BC3B4B52794598ADC&profile=web_low
-#EXTINF:-1,BBC R5SX
-http://86.26.74.20:9981/stream/channelid/1279071381?ticket=1C1AA285C8830F1F64D912EBF4AA9F9B77AC85A4&profile=web_low
-#EXTINF:-1,BBC 6 Music
-http://86.26.74.20:9981/stream/channelid/1010174957?ticket=84C018A46230DD5FBA45833B2B03C01D7866EFD2&profile=web_low
-#EXTINF:-1,BBC Radio 4 Ex
-http://86.26.74.20:9981/stream/channelid/491927482?ticket=33348FC762A3A4156511A9CE3AA65112638833A7&profile=web_low
-#EXTINF:-1,BBC Asian Net.
-http://86.26.74.20:9981/stream/channelid/847846676?ticket=FD5D3A600CC32C1B942B877CFF449252E77C43F1&profile=web_low
-#EXTINF:-1,BBC World Sv.
-http://86.26.74.20:9981/stream/channelid/1156339331?ticket=1E7067360F6F9BDBAEF062BCE3D1D701125D130E&profile=web_low
-#EXTINF:-1,The Hits Radio
-http://86.26.74.20:9981/stream/channelid/1365704084?ticket=260885370742A6F17F756A18EA09872233008C79&profile=web_low
-#EXTINF:-1,heat
-http://86.26.74.20:9981/stream/channelid/1745923092?ticket=DA39F6925C73BCA422E68DFF0B346597D6A93B13&profile=web_low
-#EXTINF:-1,Smooth Radio
-http://86.26.74.20:9981/stream/channelid/12656996?ticket=938386D227B66EB56EE04E0A2704BE7EE6212085&profile=web_low
-#EXTINF:-1,BBC Solent
-http://86.26.74.20:9981/stream/channelid/1796752202?ticket=A7A41EC75C7CBA73C320690D2FABA86701EE60C3&profile=web_low
-#EXTINF:-1,talkSPORT
-http://86.26.74.20:9981/stream/channelid/641984391?ticket=FD67F3AC95DB61B4D37D776A72E61298CEF7E7B3&profile=web_low
-#EXTINF:-1,Capital
-http://86.26.74.20:9981/stream/channelid/636299880?ticket=3A15BB1DAA371F2DC51E79E538FDF816E24C9F78&profile=web_low
-#EXTINF:-1,Premier Radio
-http://86.26.74.20:9981/stream/channelid/1417253337?ticket=D193ECB4549FB4B13CF58C4C4BA4D6396D451B72&profile=web_low
-#EXTINF:-1,Absolute Radio
-http://86.26.74.20:9981/stream/channelid/584766026?ticket=A823E62D38351912A16696D69E99ED8CEFA76D5E&profile=web_low
-#EXTINF:-1,Heart
-http://86.26.74.20:9981/stream/channelid/873272024?ticket=3797B261EB85BB14D06E711BD3BB23D2A9C3048F&profile=web_low
-#EXTINF:-1,CBS Drama
-http://86.26.74.20:9981/stream/channelid/2021912093?ticket=AEAD044FF05F05C0586EC9E36B4A6D21DBC6B57B&profile=web_low
-#EXTINF:-1,LBC
-http://86.26.74.20:9981/stream/channelid/534499510?ticket=CF086BE6CFDE04E92D0AF05AB697D44E97685956&profile=web_low
-#EXTINF:-1,Classic FM
-http://86.26.74.20:9981/stream/channelid/1688973973?ticket=4A67AC21E7B2E6A931643C2FFD25FAB8E63CDE37&profile=web_low
-#EXTINF:-1,KISS FRESH
-http://86.26.74.20:9981/stream/channelid/514560337?ticket=DC84A8F2BBF0C0B760CD72C3C498000078B2B634&profile=web_low
-#EXTINF:-1,Kiss
-http://86.26.74.20:9981/stream/channelid/1079150389?ticket=E4344F90A2481C6AC84D315B45C84576FC82EF68&profile=web_low
-#EXTINF:-1,KISSTORY
-http://86.26.74.20:9981/stream/channelid/1062566627?ticket=5BF8B165EC5C875632BD84815FF744F753F9A18D&profile=web_low
-#EXTINF:-1,Magic
-http://86.26.74.20:9981/stream/channelid/1668491656?ticket=4D90D4381D0F29ABF39641DB53D519D5320711B2&profile=web_low
-#EXTINF:-1,Kerrang!
-http://86.26.74.20:9981/stream/channelid/997432795?ticket=97DCFCAF237F1FAEA06E56B3AE723B5E7880562A&profile=web_low
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow][I][B]UK CHANNELS[/B][/I][/COLOR]
-http://0.0.0.0:123
-
-
-#EXTINF:-1, [I][B]London Live[/B][/I]
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-
-#EXTINF:0, [I][B]QVC 1[/B][/I]
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
-#EXTINF:0, [I][B]QVC 2[/B][/I]
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
-#EXTINF:0, [I][B]QVC 3[/B][/I]
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
-#EXTINF:0, [I][B]QVC 4[/B][/I]
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
-
-
-#EXTINF:-1,[I][B][COLOR yellow]--- 24/7 ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-
-#EXTINF:0,Charlie Chaplin
-http://198.179.31.197/live/2966.high.stream/playlist.m3u8
-#EXTINF:0,The Ski Channel
-http://198.179.31.197/live/2948.high.stream/playlist.m3u8
-#EXTINF:0,Macabre Theater
-http://198.179.31.197/live/315.high.stream/playlist.m3u8
-#EXTINF:0,ComedyTime TV
-http://198.179.31.197/live/344.high.stream/playlist.m3u8
-#EXTINF:0,After Dark TV
-http://198.179.31.197/live/345.high.stream/playlist.m3u8
-#EXTINF:0,SciScape
-http://198.179.31.197/live/514.high.stream/playlist.m3u8
-#EXTINF:0,Inspirational Films
-http://198.179.31.197/live/503.high.stream/playlist.m3u8
-#EXTINF:0,Action Cinema
-http://198.179.31.197/live/500.high.stream/playlist.m3u8
-#EXTINF:0,Urban Comedy
-http://198.179.31.197/live/497.high.stream/playlist.m3u8
-#EXTINF:0,FilmOn Stars
-http://198.179.31.197/live/494.high.stream/playlist.m3u8
-#EXTINF:0,FilmOn Horror Network
-http://198.179.31.197/live/1684.high.stream/playlist.m3u8
-#EXTINF:0,Kung Fu Classics
-http://198.179.31.197/live/1967.high.stream/playlist.m3u8
-#EXTINF:0,Hollywood Fast Lane
-http://198.179.31.197/live/1964.high.stream/playlist.m3u8
-#EXTINF:0,Movie Loft TV
-http://198.179.31.197/live/2719.high.stream/playlist.m3u8
-#EXTINF:0,The Christmas Channel
-http://198.179.31.197/live/2722.high.stream/playlist.m3u8
-#EXTINF:0,Bloodzillathon
-http://198.179.31.197/live/2948.high.stream/playlist.m3u8
-#EXTINF:0,Banned Westerns
-http://198.179.31.197/live/2951.high.stream/playlist.m3u8
-#EXTINF:0,FilmOn War Channel
-http://198.179.31.197/live/2954.high.stream/playlist.m3u8
-#EXTINF:0,Bonanza
-http://198.179.31.197/live/2957.high.stream/playlist.m3u8
-#EXTINF:0,One Step Beyond
-http://198.179.31.197/live/2963.high.stream/playlist.m3u8
-#EXTINF:0,The Beverly Hillbillies
-http://198.179.31.197/live/2969.high.stream/playlist.m3u8
-#EXTINF:0,Robin Hood 
-http://198.179.31.197/live/2972.high.stream/playlist.m3u8
-#EXTINF:0,MiShorts - Horror
-http://198.179.31.197/live/3298.high.stream/playlist.m3u8
-#EXTINF:0,MiShorts - Comedy
-http://198.179.31.197/live/3295.high.stream/playlist.m3u8
-#EXTINF:0,Aliens and UFOs
-http://198.179.31.197/live/3548.high.stream/playlist.m3u8
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[I][B][COLOR yellow]--- MUSIC ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-#EXTINF:-1,DANCE TV
-http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
-
-#EXTINF:-1,Music
-http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
-
-#EXTINF:-1,Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-
-#EXTINF:-1,CAPITAL TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Channel AKA
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-
-#EXTINF:-1,Clubland TV
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-
-#EXTINF:-1,MTV Music HD
-rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
-
-#EXTINF:-1,MTV Hits SD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
-
-#EXTINF:-1,MTV Dance HD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
-
-#EXTINF:-1,MTV Rocks HD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
-
-#EXTINF:-1,Vevo1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-
-#EXTINF:-1,Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-
-#EXTINF:-1,Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-
-#EXTINF:-1,Kiss Tv Music
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,-ADULTE -
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1229.ts
+#EXTINF:-1,18 :4K PORN 1
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2511.ts
+#EXTINF:-1,18 :4K PORN 2
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2512.ts
+#EXTINF:-1,18 :4K PORN 3
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2513.ts
+#EXTINF:-1,18 :4K PORN 4
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2514.ts
+#EXTINF:-1,18 :4K PORN 5
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2515.ts
+#EXTINF:-1,18 :4K PORN 6
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2516.ts
+#EXTINF:-1,18 :4K PORN 7
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2517.ts
+#EXTINF:-1,JASMIN
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2025.ts
+#EXTINF:-1,redlight
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2023.ts
+#EXTINF:-1,PENTHOUSE
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2026.ts
+#EXTINF:-1,PLAYBOY
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2027.ts
+#EXTINF:-1,HUSTLER
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2024.ts
+#EXTINF:-1,PINK EROTICA 1
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1654.ts
+#EXTINF:-1,PINK EROTICA 2
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1655.ts
+#EXTINF:-1,XXX: Pink Erotic 2
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1669.ts
+#EXTINF:-1,XXX: Exotica
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1670.ts
+#EXTINF:-1,XXX: Pinko Tv
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1671.ts
+#EXTINF:-1,XXX: Girls Tv
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1672.ts
+#EXTINF:-1,XXX-Primafila-Hot-Club-1
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1228.ts
+#EXTINF:-1,XXX-Primafila-Hot-Club-2
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1226.ts
+#EXTINF:-1,XXX-Primafila-Hot-Club-3
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1225.ts
+#EXTINF:-1,XXX-Primafila-Hot-Club-4
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1224.ts
+#EXTINF:-1,XXX-Primafila-Hot-Club-5
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1223.ts
+#EXTINF:-1,XXX-Primafila-Hot-Club-6
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1222.ts
+#EXTINF:-1,XXX-Primafila-Hot-Club-7
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1221.ts
+#EXTINF:-1,XXX-Primafila-Hot-Club-8
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1220.ts
+#EXTINF:-1,XXX-Primafila-Hot-Club-9
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1219.ts
+#EXTINF:-1,XXX-Primafila-Hot-Club-10
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1227.ts
+#EXTINF:-1,XXX: Redlight Premium
+http://live.softiptv.com:9900/live/3month/3month/12525.ts
+#EXTINF:-1,XXX: Pink OTV
+http://live.softiptv.com:9900/live/3month/3month/12526.ts
+#EXTINF:-1,XXX: Penthouse HD
+http://live.softiptv.com:9900/live/3month/3month/12513.ts
+#EXTINF:-1,XXX: Passie XXX
+http://live.softiptv.com:9900/live/3month/3month/12514.ts
+#EXTINF:-1,XXX: MvH Hard
+http://live.softiptv.com:9900/live/3month/3month/12515.ts
+#EXTINF:-1,XXX: Hustler HD
+http://live.softiptv.com:9900/live/3month/3month/12516.ts
+#EXTINF:-1,XXX: HOT CLUB 1 HD
+http://live.softiptv.com:9900/live/3month/3month/12528.ts
+#EXTINF:-1,XXX: Hot Club
+http://live.softiptv.com:9900/live/3month/3month/12517.ts
+#EXTINF:-1,XXX: But Go HD
+http://live.softiptv.com:9900/live/3month/3month/12519.ts
+#EXTINF:-1,XXX: Adult 4
+http://live.softiptv.com:9900/live/3month/3month/12521.ts
+#EXTINF:-1,XXX: Adult 3
+http://live.softiptv.com:9900/live/3month/3month/12522.ts
+#EXTINF:-1,XXX: Adult 2
+http://live.softiptv.com:9900/live/3month/3month/12523.ts
+#EXTINF:-1,XXX: Adult 1
+http://live.softiptv.com:9900/live/3month/3month/12524.ts
+#EXTINF:-1,XXX: Dorcel
+http://live.softiptv.com:9900/live/3month/3month/12474.ts
+#EXTINF:-1,XXX: VIsit X TV
+http://live.softiptv.com:9900/live/3month/3month/12301.ts
+#EXTINF:-1,XXX: Viki Enjoy Premium HD
+http://live.softiptv.com:9900/live/3month/3month/12281.ts
+#EXTINF:-1,XXX: The O HD
+http://live.softiptv.com:9900/live/3month/3month/12282.ts
+#EXTINF:-1,XXX: Spice TV HD
+http://live.softiptv.com:9900/live/3month/3month/12283.ts
+#EXTINF:-1,XXX: Sext O Senso*
+http://live.softiptv.com:9900/live/3month/3month/12284.ts
+#EXTINF:-1,XXX: Playboy TV HD 18
+http://live.softiptv.com:9900/live/3month/3month/12287.ts
+#EXTINF:-1,XXX: Playboy TV Chat 2
+http://live.softiptv.com:9900/live/3month/3month/12288.ts
+#EXTINF:-1,XXX: Playboy TV Chat 1
+http://live.softiptv.com:9900/live/3month/3month/12289.ts
+#EXTINF:-1,XXX: Pink TV HD
+http://live.softiptv.com:9900/live/3month/3month/12290.ts
+#EXTINF:-1,XXX: Penthouse Asia 18 HD
+http://live.softiptv.com:9900/live/3month/3month/12291.ts
+#EXTINF:-1,XXX: Midnight HD
+http://live.softiptv.com:9900/live/3month/3month/12293.ts
+#EXTINF:-1,XXX: Jasmin TV
+http://live.softiptv.com:9900/live/3month/3month/12303.ts
+#EXTINF:-1,XXX: Honey 18 HD
+http://live.softiptv.com:9900/live/3month/3month/12295.ts
+#EXTINF:-1,XXX: Girls 4U HD
+http://live.softiptv.com:9900/live/3month/3month/12296.ts
+#EXTINF:-1,XXX: Russia Night 2
+http://live.softiptv.com:9900/live/3month/3month/12275.ts
+#EXTINF:-1,XXX: Russia Night
+http://live.softiptv.com:9900/live/3month/3month/12276.ts
+#EXTINF:-1,XXX: Pent House HD
+http://live.softiptv.com:9900/live/3month/3month/12278.ts
+#EXTINF:-1,XXX: French lover
+http://live.softiptv.com:9900/live/3month/3month/12274.ts
+#EXTINF:-1,XXX: Brazzers Adult Europe
+http://live.softiptv.com:9900/live/3month/3month/12277.ts
+#EXTINF:-1,XXX: Adult VOD HD
+http://live.softiptv.com:9900/live/3month/3month/12273.ts
+#EXTINF:-1,XXX: Russia Night 3
+http://live.softiptv.com:9900/live/3month/3month/12271.ts
+#EXTINF:-1,18 :4K PORN 6
+http://live.softiptv.com:9900/live/3month/3month/12081.ts
+#EXTINF:-1,18 :4K PORN 3
+http://live.softiptv.com:9900/live/3month/3month/12078.ts
+#EXTINF:-1,18 :4K PORN 1
+http://live.softiptv.com:9900/live/3month/3month/12076.ts
+#EXTINF:-1,xxxT Girls Tv (Adult)
+http://live.softiptv.com:9900/live/3month/3month/12064.ts
+#EXTINF:-1,xxxPinkO TV (Adult)
+http://live.softiptv.com:9900/live/3month/3month/12067.ts
+#EXTINF:-1,xxxExotica Tv (Adult)
+http://live.softiptv.com:9900/live/3month/3month/12068.ts
+#EXTINF:-1,xxxCentoxCento TV (Adult)
+http://live.softiptv.com:9900/live/3month/3month/12071.ts
+#EXTINF:-1,XXX: Brazzers
+http://live.softiptv.com:9900/live/3month/3month/6829.ts
+.. 
+..
